@@ -1,5 +1,5 @@
 # MIT 6.S191: Introduction to Deep Learning
-[!(MIT_6.S191.png)](http://introtodeeplearning.com)
+[![](MIT_6.S191.png)](http://introtodeeplearning.com)
 
 Copyright 2020 MIT 6.S191 Introduction to Deep Learning. All Rights Reserved.
 
