@@ -11,14 +11,16 @@ MNIST Digit Classification using Neural Networks and Convolutional Neural Networ
 
 Research Paper: [AAAI_MitigatingAlgorithmicBias](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
-### Standaed Convolutional Neural Network
+Biases in Machine Learning: [Machine Learning and Human Bias](https://youtu.be/59bMh59JQDo)
+
+### Standard Convolutional Neural Network
 ![Standard_CNN](standard_cnn.png)
 
 ### Variational Auto-Encoder
 ![Variational_Auto-Encoder](Variational_Auto-Encoder.png)
 
 ### Debiasing Variational Auto-Encoder
-![Debiasing_Varational_Auto-Encoder](Debiasing_Varational_Auto-Encoder.png)
+![Debiasing_Variational_Auto-Encoder](Debiasing_Variational_Auto-Encoder.png)
 
 ### Face Time GIF
 ![Face_Time](Face_Time.gif)
